@@ -1,6 +1,6 @@
 
 # 🧭 Pirates Revenge
-![Demo - Pirates Revenge]()
+![Demo - Pirates Revenge](https://github.com/estelacode/pirates_revenge/blob/main/media/pirate_revenge_github.gif)
 
 Pirate Revenge es un juego de plataformas 2D inspirado en las legendarias historias de piratas. Juego de aventuras en el que un pirata debe superar obstáculos, enemigos y desafíos para superar cada nivel y obtener el tesoro. Juego inspirado en Super-Pirate-World by Christian Koch (Clear Code). https://github.com/clear-code-projects/Super-Pirate-World
 
@@ -8,7 +8,7 @@ El juego esta implementado en Python, utilizando el paradigma de programación o
 
 Además, se trabaja con entorno virtual donde se aíslan las dependencias del juego y   se empaqueta el juego con  setuptool para poder instalarlo como un paquete de Python  y facilitar la instalación del juego.
 
-# 🚀 Usage
+### 🚀 Usage
 
 * El jugador puede deplazarse de izquierda a derecha y viceversa, correr, saltar sobre los obstáculos.
 * El jugador puede matar a los mostruos saltando sobre ellos.
@@ -20,16 +20,16 @@ Además, se trabaja con entorno virtual donde se aíslan las dependencias del ju
 * Una vez dentro del juego, si el jugador muere se puede reiniciar la partida, tantas veces se quiera. 
 * La letra Q cierra el juego mediante atajo de teclado.
 
-# ⚙️ Install 
+### ⚙️ Install 
 ```bash
  pirates_revenge$ pip install -e . 
 ```
-# 😎🎮 Play 
+### 😎🎮 Play 
 ```bash
 pirates_revenge$ game
 ```
 
-# 👋 Author
+### 👋 Author
 Estela Madariaga
 
-# ⚓ Post
+### ⚓ Post
