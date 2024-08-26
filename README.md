@@ -33,3 +33,4 @@ pirates_revenge$ game
 Estela Madariaga
 
 ### ⚓ Post
+https://medium.com/@estelamadariaga/programaci%C3%B3n-modular-en-python-5fdac01d3701 
