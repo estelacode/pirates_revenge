@@ -23,7 +23,7 @@ Además, se trabaja con entorno virtual donde se aíslan las dependencias del ju
 ### 🦜Tech Stack
 * Object oriented design
 * Event driven design
-* ![Python] (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * Pygame
 * Tiled
 * Virtual Environtment creation
