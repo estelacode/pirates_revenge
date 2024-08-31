@@ -33,7 +33,7 @@ Además, se trabaja con entorno virtual donde se aíslan las dependencias del ju
 ```bash
  pirates_revenge$ pip install -e . 
 ```
-### 😎🎮 Play 
+### 🗡️🏴‍☠🎮 Play!
 ```bash
 pirates_revenge$ game
 ```
