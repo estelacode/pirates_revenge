@@ -19,7 +19,16 @@ Además, se trabaja con entorno virtual donde se aíslan las dependencias del ju
 * Al inicio y al final del juego aparece un menu con el boton start y exit, para empezar o cerrar el juego.
 * Una vez dentro del juego, si el jugador muere se puede reiniciar la partida, tantas veces se quiera. 
 * La letra Q cierra el juego mediante atajo de teclado.
-
+  
+### 🦜Tech Stack
+* Object oriented design
+* Event driven design
+* Python
+* Pygame
+* Tiled
+* Virtual Environtment creation
+* Package app for deployment
+* 
 ### ⚙️ Install 
 ```bash
  pirates_revenge$ pip install -e . 
