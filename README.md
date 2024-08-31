@@ -28,7 +28,7 @@ Además, se trabaja con entorno virtual donde se aíslan las dependencias del ju
 * Tiled
 * Virtual Environtment creation
 * Package app for deployment
-* 
+  
 ### ⚙️ Install 
 ```bash
  pirates_revenge$ pip install -e . 
