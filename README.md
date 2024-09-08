@@ -9,6 +9,13 @@ El juego esta implementado en Python, utilizando el paradigma de programación o
 
 Además, se trabaja con entorno virtual donde se aíslan las dependencias del juego y   se empaqueta el juego con  setuptool para poder instalarlo como un paquete de Python  y facilitar la instalación del juego.
 
+## Demo
+
+[![Demo - Pirates Revenge](https://github.com/estelacode/pirates_revenge/blob/main/media/portada_pirates_revenge_game.jpg)](https://www.youtube.com/watch?v=I_dlAwkVwAY)
+
+Youtube Video: https://www.youtube.com/watch?v=I_dlAwkVwAY
+
+
 ### 🚀 Usage
 
 * El jugador puede deplazarse de izquierda a derecha y viceversa, correr, saltar sobre los obstáculos.
